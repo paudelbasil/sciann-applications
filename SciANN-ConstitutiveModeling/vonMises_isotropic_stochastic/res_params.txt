@@ -1,0 +1,492 @@
+Training for iRealization=0 is completed! 
+bulk_pred = 0.8583244 v.s. 0.8582237372874174 
+mu_pred = 0.64387286 v.s. 0.6436678029655631 
+Sy_pred = 0.75590795 v.s. 0.7724013635586756 
+Hp_pred = 0.0759383 v.s. 0.07724013635586756 
+ 
+Training for iRealization=1 is completed! 
+bulk_pred = 1.4827235 v.s. 1.4825881089290984 
+mu_pred = 0.4152465 v.s. 0.41588203093704085 
+Sy_pred = 0.21334998 v.s. 0.22873768453972798 
+Hp_pred = 0.30565667 v.s. 0.3028640257991112 
+ 
+Training for iRealization=2 is completed! 
+bulk_pred = 0.54873574 v.s. 0.5486381888205687 
+mu_pred = 0.539959 v.s. 0.5403553904315094 
+Sy_pred = 0.37039062 v.s. 0.38660478479738725 
+Hp_pred = 0.22854012 v.s. 0.23228483831624597 
+ 
+Training for iRealization=3 is completed! 
+bulk_pred = 1.7518438 v.s. 1.7516741216633664 
+mu_pred = 0.41733098 v.s. 0.4180422277335021 
+Sy_pred = 0.20450409 v.s. 0.22091737509830833 
+Hp_pred = 0.29691303 v.s. 0.2912548345162968 
+ 
+Training for iRealization=4 is completed! 
+bulk_pred = 1.1443639 v.s. 1.1442004296768995 
+mu_pred = 0.70132613 v.s. 0.7010286553316137 
+Sy_pred = 0.75032693 v.s. 0.7670537856093996 
+Hp_pred = 0.0668257 v.s. 0.06787534771154682 
+ 
+Training for iRealization=5 is completed! 
+bulk_pred = 1.3463402 v.s. 1.3463121706295818 
+mu_pred = 0.36760432 v.s. 0.36807136606128993 
+Sy_pred = 0.6992024 v.s. 0.754234350276157 
+Hp_pred = 0.42160562 v.s. 0.4288236416616264 
+ 
+Training for iRealization=6 is completed! 
+bulk_pred = 0.4474833 v.s. 0.44746263785292834 
+mu_pred = 0.4698436 v.s. 0.47048450031043637 
+Sy_pred = 0.59422266 v.s. 0.6247496195066701 
+Hp_pred = 0.30715328 v.s. 0.32921367307685184 
+ 
+Training for iRealization=7 is completed! 
+bulk_pred = 1.1880656 v.s. 1.1879719670451836 
+mu_pred = 0.4634257 v.s. 0.4636476395347354 
+Sy_pred = 0.63815683 v.s. 0.6545678838463305 
+Hp_pred = 0.1561461 v.s. 0.16146510587236712 
+ 
+Training for iRealization=8 is completed! 
+bulk_pred = 0.8390592 v.s. 0.8389513857406073 
+mu_pred = 0.7624586 v.s. 0.762132720019085 
+Sy_pred = 0.90602684 v.s. 0.9223610709557007 
+Hp_pred = 0.0236368 v.s. 0.024560408782641565 
+ 
+Training for iRealization=9 is completed! 
+bulk_pred = 0.44238478 v.s. 0.44236181345766706 
+mu_pred = 0.45968255 v.s. 0.4600722808808656 
+Sy_pred = 0.34332556 v.s. 0.36147561613572154 
+Hp_pred = 0.44777113 v.s. 0.46197794379958623 
+ 
+Training for iRealization=10 is completed! 
+bulk_pred = 0.82839435 v.s. 0.8283162018134563 
+mu_pred = 0.63464755 v.s. 0.6338948631724101 
+Sy_pred = 0.93046016 v.s. 0.945769720832129 
+Hp_pred = 0.018928645 v.s. 0.021663771910040444 
+ 
+Training for iRealization=11 is completed! 
+bulk_pred = 0.5986407 v.s. 0.5986236357473633 
+mu_pred = 0.42143857 v.s. 0.42222573059289376 
+Sy_pred = 0.68121856 v.s. 0.7298070628252468 
+Hp_pred = 0.32668027 v.s. 0.3529975795722714 
+ 
+Training for iRealization=12 is completed! 
+bulk_pred = 0.66688967 v.s. 0.666875434941001 
+mu_pred = 0.40551925 v.s. 0.4060373385304139 
+Sy_pred = 0.70362955 v.s. 0.7580975606142502 
+Hp_pred = 0.409016 v.s. 0.4216521196083588 
+ 
+Training for iRealization=13 is completed! 
+bulk_pred = 1.1341295 v.s. 1.134017830795561 
+mu_pred = 0.4447311 v.s. 0.4452453142402546 
+Sy_pred = 0.32884276 v.s. 0.34513582208198224 
+Hp_pred = 0.25879663 v.s. 0.25786160104383066 
+ 
+Training for iRealization=14 is completed! 
+bulk_pred = 0.620952 v.s. 0.6208777712686119 
+mu_pred = 0.5685155 v.s. 0.5694610892812654 
+Sy_pred = 0.2802686 v.s. 0.2993726437083738 
+Hp_pred = 0.2241786 v.s. 0.22210625936783945 
+ 
+Training for iRealization=15 is completed! 
+bulk_pred = 0.97333765 v.s. 0.9731806034438645 
+mu_pred = 0.7239327 v.s. 0.7234624777946624 
+Sy_pred = 0.6001302 v.s. 0.6178239729749294 
+Hp_pred = 0.102566436 v.s. 0.1038331436877665 
+ 
+Training for iRealization=16 is completed! 
+bulk_pred = 0.59595865 v.s. 0.5959115437209124 
+mu_pred = 0.49117798 v.s. 0.49151476041253234 
+Sy_pred = 0.43136707 v.s. 0.4474881298319443 
+Hp_pred = 0.24358179 v.s. 0.24955616219946572 
+ 
+Training for iRealization=17 is completed! 
+bulk_pred = 2.8787327 v.s. 2.8782230476014616 
+mu_pred = 0.69817686 v.s. 0.698174963561009 
+Sy_pred = 0.68060106 v.s. 0.6969078018773451 
+Hp_pred = 0.073897734 v.s. 0.07768749203035191 
+ 
+Training for iRealization=18 is completed! 
+bulk_pred = 0.5163995 v.s. 0.5163995209739111 
+mu_pred = 0.42471772 v.s. 0.42471773055696727 
+Sy_pred = 1.1285096 v.s. 1.2163117323724293 
+Hp_pred = 0.16478091 v.s. 0.18077395407016458 
+ 
+Training for iRealization=19 is completed! 
+bulk_pred = 0.65240884 v.s. 0.6523478870599457 
+mu_pred = 0.5455185 v.s. 0.5454470651906794 
+Sy_pred = 0.6851828 v.s. 0.7039458173711991 
+Hp_pred = 0.12650785 v.s. 0.1325022309552427 
+ 
+Training for iRealization=20 is completed! 
+bulk_pred = 0.5197904 v.s. 0.5198061465241185 
+mu_pred = 0.43033183 v.s. 0.43077775817376857 
+Sy_pred = 0.8649307 v.s. 0.9070539655404319 
+Hp_pred = 0.30571207 v.s. 0.30481436427626657 
+ 
+Training for iRealization=21 is completed! 
+bulk_pred = 1.1631353 v.s. 1.163090527396441 
+mu_pred = 0.38955194 v.s. 0.3898559695476623 
+Sy_pred = 0.6666659 v.s. 0.7053998324382592 
+Hp_pred = 0.26905215 v.s. 0.2837305219656154 
+ 
+Training for iRealization=22 is completed! 
+bulk_pred = 0.61509985 v.s. 0.6150458660111846 
+mu_pred = 0.48854655 v.s. 0.48899895338065413 
+Sy_pred = 0.48666912 v.s. 0.5056472523711791 
+Hp_pred = 0.23131317 v.s. 0.23374876347401133 
+ 
+Training for iRealization=23 is completed! 
+bulk_pred = 1.7284155 v.s. 1.7280080793722346 
+mu_pred = 0.9356055 v.s. 0.9371689991715775 
+Sy_pred = 0.66558653 v.s. 0.6824938138372502 
+Hp_pred = 0.06612513 v.s. 0.07050938940157456 
+ 
+Training for iRealization=24 is completed! 
+bulk_pred = 1.2280357 v.s. 1.2279641607443033 
+mu_pred = 0.45934865 v.s. 0.45919132135952606 
+Sy_pred = 0.88174313 v.s. 0.8982208867470997 
+Hp_pred = 0.059761282 v.s. 0.0654912069197317 
+ 
+Training for iRealization=25 is completed! 
+bulk_pred = 0.964952 v.s. 0.9647951951830669 
+mu_pred = 0.60378075 v.s. 0.6045813897673473 
+Sy_pred = 0.2686444 v.s. 0.2870752695709955 
+Hp_pred = 0.18419851 v.s. 0.1905608562825535 
+ 
+Training for iRealization=26 is completed! 
+bulk_pred = 1.0592823 v.s. 1.0592475915680606 
+mu_pred = 0.38351285 v.s. 0.38398949605908844 
+Sy_pred = 0.62537295 v.s. 0.6684458361262536 
+Hp_pred = 0.36167192 v.s. 0.3686791019620916 
+ 
+Training for iRealization=27 is completed! 
+bulk_pred = 0.7724304 v.s. 0.7724056613489151 
+mu_pred = 0.3963297 v.s. 0.3970108627557561 
+Sy_pred = 0.56693494 v.s. 0.607571352773261 
+Hp_pred = 0.43405998 v.s. 0.4466413384575749 
+ 
+Training for iRealization=28 is completed! 
+bulk_pred = 1.8952296 v.s. 1.8948993561143035 
+mu_pred = 0.75377536 v.s. 0.7535036131450185 
+Sy_pred = 0.74803275 v.s. 0.7650372221165382 
+Hp_pred = 0.057924144 v.s. 0.06049909134488452 
+ 
+Training for iRealization=29 is completed! 
+bulk_pred = 1.3432101 v.s. 1.3431581301496822 
+mu_pred = 0.36923185 v.s. 0.36951124981090155 
+Sy_pred = 0.41459072 v.s. 0.43854785752655223 
+Hp_pred = 0.48872945 v.s. 0.49813418385222047 
+ 
+Training for iRealization=30 is completed! 
+bulk_pred = 2.1421378 v.s. 2.14187666024303 
+mu_pred = 0.46375522 v.s. 0.46468064214197163 
+Sy_pred = 0.2883726 v.s. 0.30686472740335424 
+Hp_pred = 0.22662602 v.s. 0.22284262148944065 
+ 
+Training for iRealization=31 is completed! 
+bulk_pred = 1.5058501 v.s. 1.50579648330476 
+mu_pred = 0.36157748 v.s. 0.36251360462658316 
+Sy_pred = 0.36031273 v.s. 0.3866588551908351 
+Hp_pred = 0.5844578 v.s. 0.5927518093410172 
+ 
+Training for iRealization=32 is completed! 
+bulk_pred = 1.8702128 v.s. 1.8698820939291771 
+mu_pred = 0.5738923 v.s. 0.5746969509067024 
+Sy_pred = 0.2648614 v.s. 0.2839031912038751 
+Hp_pred = 0.174957 v.s. 0.18383932550057697 
+ 
+Training for iRealization=33 is completed! 
+bulk_pred = 1.0500319 v.s. 1.0500046914921184 
+mu_pred = 0.37512156 v.s. 0.37606702378272916 
+Sy_pred = 0.59116477 v.s. 0.6496668475863009 
+Hp_pred = 0.5076415 v.s. 0.5162473518476449 
+ 
+Training for iRealization=34 is completed! 
+bulk_pred = 0.7200994 v.s. 0.7200235624260914 
+mu_pred = 0.58785784 v.s. 0.5877825164677807 
+Sy_pred = 0.6271432 v.s. 0.6442327333932384 
+Hp_pred = 0.12559505 v.s. 0.12978483821823775 
+ 
+Training for iRealization=35 is completed! 
+bulk_pred = 1.3915182 v.s. 1.3912808057910282 
+mu_pred = 0.74088794 v.s. 0.7407566222301053 
+Sy_pred = 0.67654246 v.s. 0.6930111418976438 
+Hp_pred = 0.0786238 v.s. 0.0803001414910358 
+ 
+Training for iRealization=36 is completed! 
+bulk_pred = 1.0523477 v.s. 1.0522176074995235 
+mu_pred = 0.5226775 v.s. 0.5235262274213393 
+Sy_pred = 0.37053105 v.s. 0.3885142228763008 
+Hp_pred = 0.19815318 v.s. 0.19611285822657987 
+ 
+Training for iRealization=37 is completed! 
+bulk_pred = 0.73854417 v.s. 0.7384226064683775 
+mu_pred = 0.7439441 v.s. 0.7442363682790757 
+Sy_pred = 0.63438255 v.s. 0.6516017479517421 
+Hp_pred = 0.098733515 v.s. 0.10009289684799337 
+ 
+Training for iRealization=38 is completed! 
+bulk_pred = 0.64341515 v.s. 0.6433374820801286 
+mu_pred = 0.54063535 v.s. 0.5401700200067342 
+Sy_pred = 0.90283424 v.s. 0.9186890900225486 
+Hp_pred = 0.04373529 v.s. 0.04827042840424702 
+ 
+Training for iRealization=39 is completed! 
+bulk_pred = 1.9403586 v.s. 1.9401269969833146 
+mu_pred = 0.48988894 v.s. 0.4904064225323423 
+Sy_pred = 0.43444458 v.s. 0.4523875888974251 
+Hp_pred = 0.18474397 v.s. 0.1808970942486082 
+ 
+Training for iRealization=40 is completed! 
+bulk_pred = 1.8699236 v.s. 1.8697905602423808 
+mu_pred = 0.5323768 v.s. 0.5322037284263879 
+Sy_pred = 0.7469682 v.s. 0.763383551803418 
+Hp_pred = 0.0843997 v.s. 0.08698916502712782 
+ 
+Training for iRealization=41 is completed! 
+bulk_pred = 0.8598833 v.s. 0.8597579222337014 
+mu_pred = 0.5991686 v.s. 0.5999864975824887 
+Sy_pred = 0.3587934 v.s. 0.3770222709171781 
+Hp_pred = 0.17839773 v.s. 0.1791590054565449 
+ 
+Training for iRealization=42 is completed! 
+bulk_pred = 0.46243885 v.s. 0.4624388499049512 
+mu_pred = 0.43875352 v.s. 0.43875352350730434 
+Sy_pred = 1.3818603 v.s. 1.483736567797565 
+Hp_pred = 0.6790663 v.s. 0.7418956243220414 
+ 
+Training for iRealization=43 is completed! 
+bulk_pred = 0.60080814 v.s. 0.6007267849443828 
+mu_pred = 0.6153321 v.s. 0.6159148670752216 
+Sy_pred = 0.41235396 v.s. 0.4305531194403046 
+Hp_pred = 0.18137206 v.s. 0.18169912582749456 
+ 
+Training for iRealization=44 is completed! 
+bulk_pred = 1.0173247 v.s. 1.0170207038922616 
+mu_pred = 1.0930501 v.s. 1.092072083539368 
+Sy_pred = 0.37220436 v.s. 0.3932425761732666 
+Hp_pred = 0.11629357 v.s. 0.1235031889795294 
+ 
+Training for iRealization=45 is completed! 
+bulk_pred = 1.1125871 v.s. 1.1125002727321334 
+mu_pred = 0.45623705 v.s. 0.4565028255148503 
+Sy_pred = 0.58201975 v.s. 0.601523428233559 
+Hp_pred = 0.17986315 v.s. 0.1865591614573531 
+ 
+Training for iRealization=46 is completed! 
+bulk_pred = 0.6961589 v.s. 0.696102500821858 
+mu_pred = 0.5467208 v.s. 0.5464566963561943 
+Sy_pred = 0.77778333 v.s. 0.7955682908805771 
+Hp_pred = 0.08986664 v.s. 0.09695438061064177 
+ 
+Training for iRealization=47 is completed! 
+bulk_pred = 0.5722387 v.s. 0.5721882119858779 
+mu_pred = 0.51231706 v.s. 0.5126371245026945 
+Sy_pred = 0.39007878 v.s. 0.4073709691119752 
+Hp_pred = 0.2398897 v.s. 0.24354270985034485 
+ 
+Training for iRealization=48 is completed! 
+bulk_pred = 0.4847262 v.s. 0.48469698569928926 
+mu_pred = 0.48562935 v.s. 0.48583899114549506 
+Sy_pred = 0.594164 v.s. 0.6194154721365996 
+Hp_pred = 0.23945366 v.s. 0.2544126810508933 
+ 
+Training for iRealization=49 is completed! 
+bulk_pred = 0.7894064 v.s. 0.789335708749988 
+mu_pred = 0.5180188 v.s. 0.5180288868385833 
+Sy_pred = 0.5884631 v.s. 0.6064657111313931 
+Hp_pred = 0.15755364 v.s. 0.16236639961409235 
+ 
+Training for iRealization=50 is completed! 
+bulk_pred = 0.6990744 v.s. 0.6990513960326037 
+mu_pred = 0.41237357 v.s. 0.41294179921823465 
+Sy_pred = 0.66541344 v.s. 0.7075386648057991 
+Hp_pred = 0.3136963 v.s. 0.3265825028505284 
+ 
+Training for iRealization=51 is completed! 
+bulk_pred = 0.65765536 v.s. 0.6576162989493439 
+mu_pred = 0.4654409 v.s. 0.465611263585617 
+Sy_pred = 0.63845485 v.s. 0.661731224589935 
+Hp_pred = 0.195917 v.s. 0.20710657921784498 
+ 
+Training for iRealization=52 is completed! 
+bulk_pred = 1.433641 v.s. 1.433616610848007 
+mu_pred = 0.3679298 v.s. 0.3682335870721764 
+Sy_pred = 0.8606689 v.s. 0.8994319603528584 
+Hp_pred = 0.2815786 v.s. 0.27502636611807163 
+ 
+Training for iRealization=53 is completed! 
+bulk_pred = 1.1260592 v.s. 1.1258913171794276 
+mu_pred = 0.5920047 v.s. 0.5925930186286897 
+Sy_pred = 0.4099913 v.s. 0.4280878704062529 
+Hp_pred = 0.16230488 v.s. 0.16257885015745055 
+ 
+Training for iRealization=54 is completed! 
+bulk_pred = 0.5919895 v.s. 0.5919583917458996 
+mu_pred = 0.5027798 v.s. 0.5025500530720578 
+Sy_pred = 0.8378219 v.s. 0.8603336162835332 
+Hp_pred = 0.0892468 v.s. 0.0987792896877803 
+ 
+Training for iRealization=55 is completed! 
+bulk_pred = 0.5185455 v.s. 0.5185172124100186 
+mu_pred = 0.47076216 v.s. 0.47129191238483964 
+Sy_pred = 0.52104235 v.s. 0.5442475897009094 
+Hp_pred = 0.27621168 v.s. 0.28544286301468524 
+ 
+Training for iRealization=56 is completed! 
+bulk_pred = 1.7009517 v.s. 1.7008214111081466 
+mu_pred = 0.45579433 v.s. 0.45571959542635665 
+Sy_pred = 0.7200389 v.s. 0.7435132177738564 
+Hp_pred = 0.11583548 v.s. 0.12527109613349682 
+ 
+Training for iRealization=57 is completed! 
+bulk_pred = 3.4856403 v.s. 3.484891672751024 
+mu_pred = 0.79510343 v.s. 0.79558450112858 
+Sy_pred = 0.6744981 v.s. 0.6916102330884947 
+Hp_pred = 0.067346 v.s. 0.07165538033893958 
+ 
+Training for iRealization=58 is completed! 
+bulk_pred = 0.6492144 v.s. 0.649191194786657 
+mu_pred = 0.4415789 v.s. 0.44186061808064403 
+Sy_pred = 0.82306886 v.s. 0.8479120447792359 
+Hp_pred = 0.15307805 v.s. 0.16417514382649995 
+ 
+Training for iRealization=59 is completed! 
+bulk_pred = 1.837945 v.s. 1.8375661914970882 
+mu_pred = 0.7822716 v.s. 0.7833802274219175 
+Sy_pred = 0.593094 v.s. 0.6100365963465302 
+Hp_pred = 0.087073795 v.s. 0.09249493173041196 
+ 
+Training for iRealization=60 is completed! 
+bulk_pred = 0.58199006 v.s. 0.5819639247917 
+mu_pred = 0.4439528 v.s. 0.44444304160362536 
+Sy_pred = 0.612668 v.s. 0.6389251403694008 
+Hp_pred = 0.27582145 v.s. 0.2883413005204957 
+ 
+Training for iRealization=61 is completed! 
+bulk_pred = 0.5187981 v.s. 0.5187981375409847 
+mu_pred = 0.42418006 v.s. 0.4241800727092986 
+Sy_pred = 1.265167 v.s. 1.3541247596198471 
+Hp_pred = 0.028232774 v.s. 0.030980188297693997 
+ 
+Training for iRealization=62 is completed! 
+bulk_pred = 1.1972668 v.s. 1.197133131607175 
+mu_pred = 0.49193534 v.s. 0.49252306670854745 
+Sy_pred = 0.40499213 v.s. 0.4230790503728588 
+Hp_pred = 0.20385629 v.s. 0.19996943294221609 
+ 
+Training for iRealization=63 is completed! 
+bulk_pred = 0.6352949 v.s. 0.6352949106377793 
+mu_pred = 0.4039899 v.s. 0.4039899180474743 
+Sy_pred = 1.048875 v.s. 1.1359826907041046 
+Hp_pred = 0.29357448 v.s. 0.3220711063701364 
+ 
+Training for iRealization=64 is completed! 
+bulk_pred = 0.5559913 v.s. 0.5559575960696943 
+mu_pred = 0.47089013 v.s. 0.47137951605233425 
+Sy_pred = 0.50859267 v.s. 0.5304694439007436 
+Hp_pred = 0.26326066 v.s. 0.270028757533112 
+ 
+Training for iRealization=65 is completed! 
+bulk_pred = 0.6336767 v.s. 0.633637146782362 
+mu_pred = 0.43837768 v.s. 0.43885508834203957 
+Sy_pred = 0.3528107 v.s. 0.3701651826898741 
+Hp_pred = 0.3459722 v.s. 0.3479610852760165 
+ 
+Training for iRealization=66 is completed! 
+bulk_pred = 1.2396219 v.s. 1.239621908261967 
+mu_pred = 0.3661527 v.s. 0.36615272427805995 
+Sy_pred = 1.5699173 v.s. 1.6797541858531437 
+Hp_pred = 0.6569243 v.s. 0.7170410823627111 
+ 
+Training for iRealization=67 is completed! 
+bulk_pred = 0.52082753 v.s. 0.5207999105439441 
+mu_pred = 0.42474124 v.s. 0.42612601391763744 
+Sy_pred = 0.7190006 v.s. 0.7772944854386149 
+Hp_pred = 0.5107461 v.s. 0.5292318888231018 
+ 
+Training for iRealization=68 is completed! 
+bulk_pred = 0.92381036 v.s. 0.9237749038078964 
+mu_pred = 0.38626316 v.s. 0.38659638586740663 
+Sy_pred = 0.447672 v.s. 0.4766382315605894 
+Hp_pred = 0.4673446 v.s. 0.47452774610371273 
+ 
+Training for iRealization=69 is completed! 
+bulk_pred = 1.0303683 v.s. 1.0303335572772987 
+mu_pred = 0.38492367 v.s. 0.38537862251973465 
+Sy_pred = 0.6043968 v.s. 0.6511690665420424 
+Hp_pred = 0.36208034 v.s. 0.3746142960959881 
+ 
+Training for iRealization=70 is completed! 
+bulk_pred = 0.9134722 v.s. 0.913346134101805 
+mu_pred = 0.68465847 v.s. 0.6842992907187765 
+Sy_pred = 0.675155 v.s. 0.6924018822030229 
+Hp_pred = 0.09116429 v.s. 0.0920590079490688 
+ 
+Training for iRealization=71 is completed! 
+bulk_pred = 0.9428036 v.s. 0.9428035664505308 
+mu_pred = 0.37786543 v.s. 0.3778654639295187 
+Sy_pred = 1.0577408 v.s. 1.1451149690391218 
+Hp_pred = 0.4055256 v.s. 0.44440524917678 
+ 
+Training for iRealization=72 is completed! 
+bulk_pred = 0.87400526 v.s. 0.8739390346920753 
+mu_pred = 0.44316196 v.s. 0.4435361983585567 
+Sy_pred = 0.42078015 v.s. 0.43710163963447835 
+Hp_pred = 0.25973675 v.s. 0.2637771683043872 
+ 
+Training for iRealization=73 is completed! 
+bulk_pred = 1.376608 v.s. 1.376320641845671 
+mu_pred = 0.7356697 v.s. 0.7362091926485241 
+Sy_pred = 0.40764892 v.s. 0.4248582560045919 
+Hp_pred = 0.12704259 v.s. 0.1358064569468636 
+ 
+Training for iRealization=74 is completed! 
+bulk_pred = 0.8085001 v.s. 0.808532559875565 
+mu_pred = 0.8554141 v.s. 0.8563698009766907 
+Sy_pred = 0.6239966 v.s. 0.6407019299900809 
+Hp_pred = 0.086517535 v.s. 0.09144605637278538 
+ 
+Training for iRealization=75 is completed! 
+bulk_pred = 1.2668784 v.s. 1.2667136186165895 
+mu_pred = 0.5380766 v.s. 0.538552318567645 
+Sy_pred = 0.43166688 v.s. 0.44966172707568447 
+Hp_pred = 0.1724524 v.s. 0.17127005009008692 
+ 
+Training for iRealization=76 is completed! 
+bulk_pred = 1.2611016 v.s. 1.2609588402079994 
+mu_pred = 0.56663483 v.s. 0.566618682324537 
+Sy_pred = 0.68962854 v.s. 0.70687308698257 
+Hp_pred = 0.10125194 v.s. 0.10124529707875178 
+ 
+Training for iRealization=77 is completed! 
+bulk_pred = 0.46503833 v.s. 0.4650234916387211 
+mu_pred = 0.45781446 v.s. 0.45840205126719286 
+Sy_pred = 0.65412563 v.s. 0.6970233836781969 
+Hp_pred = 0.30936328 v.s. 0.3306586560164616 
+ 
+Training for iRealization=78 is completed! 
+bulk_pred = 0.56368595 v.s. 0.5636381733639052 
+mu_pred = 0.52399325 v.s. 0.5243354394726045 
+Sy_pred = 0.5465925 v.s. 0.5646134959537195 
+Hp_pred = 0.19235137 v.s. 0.19841695850708221 
+ 
+Training for iRealization=79 is completed! 
+bulk_pred = 1.0824518 v.s. 1.0823466720400132 
+mu_pred = 0.51476216 v.s. 0.5148890989830592 
+Sy_pred = 0.5596576 v.s. 0.5785231742746061 
+Hp_pred = 0.15677291 v.s. 0.15624407182706881 
+ 
+Training for iRealization=80 is completed! 
+bulk_pred = 2.0756927 v.s. 2.075280463752912 
+mu_pred = 0.70339054 v.s. 0.704110156651069 
+Sy_pred = 0.49872696 v.s. 0.5164853160326767 
+Hp_pred = 0.110479325 v.s. 0.11717428195849151 
+ 
+Training for iRealization=81 is completed! 
+bulk_pred = 0.5895142 v.s. 0.5895142084984057 
+mu_pred = 0.41075137 v.s. 0.4107513877717522 
+Sy_pred = 1.0630753 v.s. 1.1492625140146313 
+Hp_pred = 0.48389363 v.s. 0.5297650603877845 
+ 
